@@ -1,0 +1,13 @@
+body {
+  color: slategray;
+}
+
+h1 {
+  color: orange;
+  text-transform: uppercase;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+}
